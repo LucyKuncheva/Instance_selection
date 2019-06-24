@@ -6,4 +6,4 @@ Prototype/Instance Selection for the 1-nn Classifier
 
 Files
 
-..* `GeorgeTheFish.mat`
+  * `GeorgeTheFish.mat`
