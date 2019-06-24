@@ -10,4 +10,7 @@ Files
 
   * `DataClean.mat` contains the sampled data set of 1000x2 x-y coordinates in variable `Data` and the labels in variable `Labels`. 
 
-  * `DataNoise.mat` contains the same data as above in variable `DataNoise (= Data)` and the labels where 14% have been changed to a different class in variable `LabelsNoise`.
+  * `DataNoise.mat` contains the same data as above in variable `DataN (= Data)` and the labels in variable `LabelsN`, where 10% have been changed to a different class (label noise).
+  
+  * `DataGeorge.csv` contains the sampled data (columns 1 and 2), the original labels (column 3) and the labels with noise (column 4).
+  
