@@ -14,5 +14,6 @@ Data Files
   
   * `DataGeorge.csv` contains the sampled data (columns 1 and 2), the original labels (column 3) and the labels with noise (column 4).
   
-Data Functions
+Data Manipulation
+  * `PlotGeorgeData.m` plots the original data, the sampled data and the classification regions of 1-nn with the clean and noisy reference sets.
 
