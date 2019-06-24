@@ -1,10 +1,10 @@
 # instance_selection
-Prototype/Instance Selection for the 1-nn Classifier
+Prototype/Instance Selection for the 1-nn Classifier (MATLAB)
 
 #### George Dataset (George the fish)
 <img src="https://github.com/LucyKuncheva/instance_selection/blob/master/GeorgeImage.jpg" width="200"/>
 
-Files
+Data Files
 
   * `GeorgeTheFish.mat` contains the full data set (see the image `GeorgeImage.jpg`) of 300679x2 x-y coordinates in variable `GeorgeData` and the labels in variable `GeorgeLabels`. 
 
@@ -14,3 +14,5 @@ Files
   
   * `DataGeorge.csv` contains the sampled data (columns 1 and 2), the original labels (column 3) and the labels with noise (column 4).
   
+Data Functions
+
