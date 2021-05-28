@@ -44,4 +44,6 @@ Prototype/Instance Selection for the 1-nn Classifier (MATLAB)
 
 
 ##### Reference
-[1] L Kuncheva. Prototype classifiers and the big fish. (under review)
+[1] L Kuncheva. Prototype Classifiers and the Big Fish. The Case of Prototype (Instance) Selection, IEEE SMC Magazine, 6(2), 2020, 49-56. 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9072209
+
